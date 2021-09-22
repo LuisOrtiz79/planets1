@@ -2,3 +2,9 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 We removed the conflict on this line
+
+Here's some info about mars:
+    Mars is the fourth planet from the Sun and the 
+    second-smallest planet in the Solar System, being 
+    larger than only Mercury.
+As found in Mars's Wikipedia Page
